@@ -1,10 +1,6 @@
-// import { checkForName } from "./js/nameChecker";
-// import { handleSubmit } from "./js/formHandler";
-// import _ from "lodash";
+import { checkForName } from "./js/nameChecker";
+import { handleSubmit } from "./js/formHandler";
 
-// console.log(checkForName);
-
-// alert("I EXIST");
-// console.log("CHANGE!!");
+console.log(checkForName);
 
 alert("Wonai Media");
